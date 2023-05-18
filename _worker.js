@@ -7,6 +7,6 @@ export default{
 			method:request.method,
 			body:request.body,
 			redirect:'follow'
-		});
+		})
 	}
 }
